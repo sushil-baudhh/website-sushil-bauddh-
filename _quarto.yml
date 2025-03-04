@@ -1,0 +1,19 @@
+project: 
+  type: website
+  preview: 
+    browser: true
+
+website: 
+  title: "Sushil Bauddh"
+  navbar: 
+   left: 
+     - text: "home"
+       href: index.qmd
+     - text: "About"
+       href: about.qmd
+  
+format:
+  html:
+    theme: sketchy
+    #fontcolor: "#5dade2"
+    #linkcolor: black

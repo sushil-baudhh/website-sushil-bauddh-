@@ -1,0 +1,22 @@
+---
+title: "Sushil Bauddh"
+subtitle: "Student Sara"
+image: images/sushil.jpeg
+format: html
+about:
+  template: solana
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sara-institute
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/sushilbauddh24w
+---
+
+
+Hello World:  
+My Name Is Sushil Bauddh.I Am From Haryana. I Am Buddhidst 
