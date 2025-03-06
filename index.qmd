@@ -8,15 +8,21 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/sara-institute
+      href: https://github.com/sushil-baudhh
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ajay-kumar-koli/
+      href: https://www.linkedin.com/in/sushil-bauddh-794962248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     - icon: twitter
       text: Twitter
-      href: https://x.com/sushilbauddh24w
+      href: https://x.com/sushil_Bauddh04?t=1gLbvAfeL7-lDSHhLiR_ZQ&s=09
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/share/166kRQzB3J/
 ---
 
 
-Hello World:  
-My Name Is Sushil Bauddh.I Am From Haryana. I Am Buddhidst 
+# Myself Sushil! Welcome you all!
+
+My Name Is Sushil Bauddh.I Am From Haryana. I aspire to  achieve the vision and ideals of Gautam Budhha and Dr. B.R Ambedkar.
+
+ I am working as a social activists and engaged in spreading the dhamma of tathagat buddha. I'm working to spread the message of love, liberty, equality and fraternity of buddha and working on the anti caste pathway of Babasaheb Ambedkar.

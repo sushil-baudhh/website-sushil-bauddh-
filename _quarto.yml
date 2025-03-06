@@ -5,15 +5,37 @@ project:
 
 website: 
   title: "Sushil Bauddh"
+  site-url: "https://sushilbauddh.netlify.app/"
+  description: "Hi Friend. Let's connect."
+  twitter-card: true 
   navbar: 
-   left: 
-     - text: "home"
-       href: index.qmd
-     - text: "About"
-       href: about.qmd
-  
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "More"
+        menu: 
+         - detail.qmd
+         - contact.qmd
+    tools:
+      - icon: twitter
+        href: https://x.com/sushil_Bauddh04?t=1gLbvAfeL7-lDSHhLiR_ZQ&s=09
+      - icon: github
+        href: https://github.com/sushil-baudhh
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sushil-bauddh-794962248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      - icon: facebook
+        href: https://www.facebook.com/share/166kRQzB3J/
+  page-footer:
+        left: "Copyright 2025, Sushil Bauddh"
+        center: "made with ❤️"
+        right: "supported by [SARA](https://sara-edu.netlify.app/)"
+
 format:
   html:
-    theme: sketchy
-    #fontcolor: "#5dade2"
-    #linkcolor: black
+    theme: cosmos
+  #   css: style.css
+   #  fontcolor: "#782311"
+  #   linkcolor: black
+  
